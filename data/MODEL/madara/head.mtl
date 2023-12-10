@@ -1,0 +1,61 @@
+newmtl head:Blender_Render_Madara_Eyes_NONE
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Sharingan_texture.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl head:Blender_Render_Madara_Material
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd _Madara_texture_main_mAIN.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl head:None
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.80 0.80 0.80
+Ns 0.00
+newmtl head1:Blender_Render_Madara_Eyes
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Sharingan_texture.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl head1:Blender_Render_Madara_Eyes_NONE
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Sharingan_texture.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl head1:Blender_Render_Madara_Material
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd _Madara_texture_main_mAIN.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl head1:None
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.80 0.80 0.80
+Ns 0.00

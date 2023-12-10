@@ -1,0 +1,18 @@
+newmtl gengar_colladamax:mat0
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pm0094_00_Body1.png
+Ni 1.00
+Ks 0.90 0.90 0.90
+Ns 0.42
+newmtl gengar_colladamax:mat2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd pm0094_00_Eye1.png
+Ni 1.00
+Ks 0.90 0.90 0.90
+Ns 0.42

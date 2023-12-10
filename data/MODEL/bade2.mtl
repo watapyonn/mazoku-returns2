@@ -1,0 +1,9 @@
+newmtl bado1:blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4151770b71332a3ccca1c37697170816.jpeg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
